@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Pagina/Servidor</description>
+	<lastBuildDate>Tue, 01 Oct 2024 12:55:33 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Blog</title>
+		<link>/2024/10/01/blog/</link>
+					<comments>/2024/10/01/blog/#respond</comments>
+		
+		<dc:creator><![CDATA[alvamt]]></dc:creator>
+		<pubDate>Tue, 01 Oct 2024 12:55:33 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=142</guid>
+
+					<description><![CDATA[&#160; &#160; &#8211;]]></description>
+										<content:encoded><![CDATA[<style>/*! elementor - v3.23.0 - 05-08-2024 */<br />.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>
+<p><img fetchpriority="high" decoding="async" class="aligncenter" src="/wp-content/uploads/2024/08/istockphoto-1443076198-612x612-2.webp" alt="" width="612" height="344" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&#8211;</p>
+<p><img decoding="async" class="wp-image-148 aligncenter" src="/wp-content/uploads/2024/08/DFW-Data-Center-blue-and-purple-677x451-1.jpg" alt="" width="608" height="405" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/10/01/blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
